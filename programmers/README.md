@@ -42,6 +42,10 @@
    * 코드 및 해설
    https://bskwak.tistory.com/235
    
+　　　Q4. 입양 시각 구하기(2)  
+　　　　　　풀이 2가지 - (1) SET, @변수 (2) UNION ALL 
+   * 코드 및 해설
+   https://bskwak.tistory.com/236
    
    
    
