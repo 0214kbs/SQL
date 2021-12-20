@@ -1,4 +1,5 @@
 # 프로그래머스 SQL 고득점 kit
+MySQL 위주의 풀이
 
   
   ## 1. SELECT
@@ -11,7 +12,7 @@
 　　　Q4. 어린 동물 찾기 - WHERE   
 　　　Q5. 동물의 아이디와 이름 - ORDER BY   
 　　　Q6. 여러 기준으로 정렬하기 - ORDER BY 2개 이상   
-　　　Q7. 상위 n개 레코드 - LIMIT(mysql), rownum(Oracle)   
+　　　Q7. 상위 n개 레코드 - (MySQL)LIMIT, (Oracle)rownum   
       
 * 코드 및 해설 https://bskwak.tistory.com/232
 
@@ -47,5 +48,16 @@
    * 코드 및 해설
    https://bskwak.tistory.com/236
    
-   
+
+
+## 4. ISNULL
+  * 문제
+  https://programmers.co.kr/learn/courses/30/parts/17045
+  
+　　　Q1. 이름이 없는 동물의 아이디 -> (WHERE) IS NULL   
+　　　Q2. 이름이 있는 동물의 아이디 -> (WHERE) IS NOT NULL   
+　　　Q3. NULL 처리하기 -> (MySQL) IFNULL, (Oracle) NVL, NVL2, DECODE  
+      
+* 코드 및 해설
+      https://bskwak.tistory.com/237
    
