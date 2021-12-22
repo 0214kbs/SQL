@@ -60,4 +60,19 @@ MySQL 위주의 풀이
       
 * 코드 및 해설
       https://bskwak.tistory.com/237
+
+
+
+## 5. JOIN
+  * 문제
+  https://programmers.co.kr/learn/courses/30/parts/17046
+  
+　　　-> LEFT OUTER JOIN <-    
+　　　Q1. 없어진 기록 찾기    
+　　　Q2. 있었는데요 없었습니다   
+　　　Q3. 오랜기간 보호한 동물(1)  
+　　　Q4. 보호소에서 중성화한 동물  
+      
+* 코드 및 해설
+      https://bskwak.tistory.com/238
    
