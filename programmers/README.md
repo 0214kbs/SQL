@@ -75,4 +75,13 @@ MySQL 위주의 풀이
       
 * 코드 및 해설
       https://bskwak.tistory.com/238
-   
+    
+
+
+## 6. String, Date
+  * 문제
+  https://programmers.co.kr/learn/courses/30/parts/17047
+  
+　　　Q1. 루시와 엘라 찾기 -> IN   
+　　　Q2. 이름에 el이 들어가는 동물 찾기 
+
